@@ -1,0 +1,7 @@
+{
+    "name": "Stinky MediaTM",
+    "version": "1.0.0",
+    "description": "Force Discord to load media from cdn.discordapp.com instead of media.discordapp.net",
+    "author": "Ghostwolf",
+    "license": "The Unlicense"
+}
